@@ -1,0 +1,27 @@
+{
+  "name": "javascriptes6",
+  "version": "1.0.0",
+  "description": "Javascript ECMA 6 tutorial",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jasmine JASMINE_CONFIG_PATH=test/config/jasmine.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anirbansdutta/JavascriptES6.git"
+  },
+  "keywords": [
+    "ES6",
+    "ECMA",
+    "scripts"
+  ],
+  "author": "Anirban Dutta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anirbansdutta/JavascriptES6/issues"
+  },
+  "homepage": "https://github.com/anirbansdutta/JavascriptES6#readme"
+}
